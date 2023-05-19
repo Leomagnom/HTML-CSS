@@ -23,10 +23,10 @@ body {
 
 main {
     background-color: rgba(255, 255, 255, 0.842);
-    width: 80vw;
+    width: 400px;
     margin: auto;
-    margin-top: 10px;
-    border-radius: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
     padding: 10px;
 }
 h1 {
@@ -37,13 +37,12 @@ h1 {
 }
 
 img{
-    display: block;
+    display:block;
     margin: auto;
-}
+ }
 
-img#fhone {display: block;}
+img#phone {display: block;}
 img#tablet {display: none;}
 img#print {display: none;}
 img#pc {display: none;}
 img#tv {display: none;}
- 
