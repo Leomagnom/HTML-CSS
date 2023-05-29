@@ -18,8 +18,7 @@ header > h1 {
     padding: 10px;
     text-align: center;
 }
-i#burguer{
-    background-color: rgb(48, 48, 48);
+i#burguer{  background-color: rgb(48, 48, 48);
     color: white;
     display: block;
     text-align: center;
